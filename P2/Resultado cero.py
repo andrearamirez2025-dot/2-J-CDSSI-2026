@@ -1,6 +1,6 @@
 #nombre:Andrea Naomi Ramirez Santos
 #Grupo:2-J
-#Fecha:13-3-26
+#Fecha:13-3-2026
 #Encontrar que elementos de una lista suman cero
 #Escribe una clase de python que encuentre 3 elementos que sumen cero
 #Los elementos se encuentran en una lista y son numeros enteros+-
