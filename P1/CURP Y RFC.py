@@ -1,6 +1,6 @@
 #Nombre: Andrea Naomi Ramirez Santos
 #Grupo: 2ºJ
-#Fecha: 13/3/26
+#Fecha: 13/3/2026
 #Programa: Generador de CURP y RFC
 #Numero de practica: 2
 
