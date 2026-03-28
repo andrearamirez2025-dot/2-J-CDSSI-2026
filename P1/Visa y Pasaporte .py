@@ -1,6 +1,6 @@
 #Nombre: Andrea Naomi Ramirez Santos
 #Grupo: 2ºJ
-#Fecha: 13/3/26
+#Fecha: 13/3/2026
 #Nombre de la practica: Visa y Pasaporte
 #Numero de practica: 3
 print("Hola a que lugar quisiera ir?")
