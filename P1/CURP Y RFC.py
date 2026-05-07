@@ -1,4 +1,4 @@
-#Nombre: Andrea Naomi Ramirez Santos
+#Nombre:Andrea Naomi Ramirez Santos
 #Grupo: 2ºJ
 #Fecha: 13/3/2026
 #Programa: Generador de CURP y RFC
